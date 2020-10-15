@@ -1,0 +1,4 @@
+Name,Email,ID Card Number,Year,Is Community Member,Is Board,Station Service,Priority Modifier,Preferred Slots,Barred Slots
+John Wick,jwick@email.com,"""0000000001""",freshman,FALSE,FALSE,75,0,"Sunday 0:00, Monday 0:00, Tuesday 0:00",
+Ringo Star,rstar@beatle.com,"""0000000002""",senior,FALSE,FALSE,76,0,,
+Bob Bobberson,pppp@butt.fart,"""0000000003""",none,FALSE,FALSE,77,0,,"Sunday 0:00, Monday 0:00, Tuesday 0:00, Sunday 1:00, Monday 1:00, Tuesday 1:00 "
